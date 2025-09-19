@@ -1,7 +1,0 @@
-# Requirements for Classy Weather App
-
-# This project is frontend-only (HTML, CSS, JS).
-# No server-side dependencies are required.
-
-Web Browser (latest Chrome, Firefox, Edge, or Safari)
-Internet Connection (to fetch data from Open-Meteo API)
