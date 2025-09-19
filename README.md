@@ -2,7 +2,7 @@
 
 ```markdown
 🌦️ Classy Weather App
-
+Live Demo: https://cloudy2sunny.netlify.app/
 A sleek and responsive weather web application built with HTML, CSS, and JavaScript.  
 It fetches live weather data using the [Open-Meteo API](https://open-meteo.com/) and displays current weather conditions and forecasts for any location.
 
